@@ -1,0 +1,138 @@
+{
+  "hero": {
+    "name": "Alex Reyes",
+    "brandName": "REYES FILMS",
+    "tagline": "Cinematic Stories. Unforgettable Moments.",
+    "bio": "Award-winning video editor and cinematographer specialising in sports, events, real estate, and travel content.",
+    "email": "hello@reyesfilms.com",
+    "whatsapp": "+1234567890"
+  },
+  "social": {
+    "instagram": "https://instagram.com/reyesfilms",
+    "youtube": "https://youtube.com/@reyesfilms",
+    "linkedin": "https://linkedin.com/in/alexreyes",
+    "vimeo": "https://vimeo.com/reyesfilms"
+  },
+  "categories": [
+    {
+      "id": "sports-documentary",
+      "title": "Sports Documentary",
+      "description": "Historical narratives & tournament coverage that capture the drama of sport.",
+      "aspectRatio": "16/9",
+      "videos": [
+        {
+          "id": "sd-1",
+          "title": "The Road to Glory — Football Championship 2024",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "sd-2",
+          "title": "Legends of the Pitch — A 30-Year Story",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "sd-3",
+          "title": "Against All Odds — National Cup Finals",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        }
+      ]
+    },
+    {
+      "id": "event-highlights",
+      "title": "Event Highlights",
+      "description": "Capturing the energy, emotion, and essence of live events.",
+      "aspectRatio": "16/9",
+      "videos": [
+        {
+          "id": "eh-1",
+          "title": "Lagos Fashion Week 2024 — Recap",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "eh-2",
+          "title": "Tech Summit Keynote Highlights",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "eh-3",
+          "title": "Grand Wedding — Adeola & Emeka",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        }
+      ]
+    },
+    {
+      "id": "real-estate",
+      "title": "Real Estate Listing Videos",
+      "description": "Architectural storytelling that turns properties into experiences.",
+      "aspectRatio": "16/9",
+      "videos": [
+        {
+          "id": "re-1",
+          "title": "Luxury Penthouse — Victoria Island, Lagos",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "re-2",
+          "title": "Modern Villa — Lekki Phase 1",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "re-3",
+          "title": "Commercial Complex — Abuja CBD",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        }
+      ]
+    },
+    {
+      "id": "travel-reels",
+      "title": "Travel Reels",
+      "description": "Dynamic vlog-style cuts that transport you across continents.",
+      "aspectRatio": "9/16",
+      "videos": [
+        {
+          "id": "tr-1",
+          "title": "48 Hours in Dubai",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "tr-2",
+          "title": "Santorini — A Visual Diary",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "tr-3",
+          "title": "Tokyo Nights",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "tr-4",
+          "title": "African Safari — Kenya",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        }
+      ]
+    },
+    {
+      "id": "sports-highlights",
+      "title": "Sports Highlight Videos",
+      "description": "High-octane montages that make every play feel legendary.",
+      "aspectRatio": "16/9",
+      "videos": [
+        {
+          "id": "sh-1",
+          "title": "Messi Season Rewind — 2024",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "sh-2",
+          "title": "Basketball — Dunk Compilation",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        },
+        {
+          "id": "sh-3",
+          "title": "Athletics Championship Moments",
+          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+        }
+      ]
+    }
+  ]
+}
