@@ -39,7 +39,7 @@ export default function Navbar({ categories, brandName }: NavbarProps) {
           {/* Logo */}
           <button
             onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
-            className="font-display text-2xl tracking-widest text-white hover:text-[var(--accent)] transition-colors duration-300"
+            className="font-display text-2xl tracking-widest text-white hover:text-[var(--accent)] transition-colors duration-300 whitespace-nowrap"
             aria-label="Go to top"
           >
             {brandName}

@@ -15,7 +15,7 @@ const inter = Inter({
 });
 
 export const metadata: Metadata = {
-  title: "Reyes Films — Cinematic Video Portfolio",
+  title: "Mussab Bin Aziz — Cinematic Video Portfolio",
   description:
     "Award-winning video editing & cinematography. Sports documentaries, event highlights, real estate, travel reels, and sports highlight videos.",
   keywords: [
@@ -28,7 +28,7 @@ export const metadata: Metadata = {
     "portfolio",
   ],
   openGraph: {
-    title: "Reyes Films — Cinematic Video Portfolio",
+    title: "Mussab Bin Aziz",
     description:
       "Award-winning video editing & cinematography. Sports documentaries, event highlights, real estate, travel reels, and sports highlight videos.",
     type: "website",
