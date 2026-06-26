@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+This is the portfolio website for Mussab Bin Aziz's Video Editing Services.
 
 ## Getting Started
 
