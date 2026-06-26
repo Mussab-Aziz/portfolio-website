@@ -1,17 +1,15 @@
 {
   "hero": {
-    "name": "Alex Reyes",
-    "brandName": "REYES FILMS",
+    "name": "Mussab Bin Aziz",
+    "brandName": "Mussab Bin Aziz",
     "tagline": "Cinematic Stories. Unforgettable Moments.",
-    "bio": "Award-winning video editor and cinematographer specialising in sports, events, real estate, and travel content.",
-    "email": "hello@reyesfilms.com",
-    "whatsapp": "+1234567890"
+    "bio": "Video editor and Content Creator specializing in sports documentaries, events highlights, real estate listing, and travel content.",
+    "email": "mussabpc@gmail.com",
+    "whatsapp": "+923186331363"
   },
   "social": {
-    "instagram": "https://instagram.com/reyesfilms",
-    "youtube": "https://youtube.com/@reyesfilms",
-    "linkedin": "https://linkedin.com/in/alexreyes",
-    "vimeo": "https://vimeo.com/reyesfilms"
+    "instagram": "https://www.instagram.com/zaawiyahh/",
+    "linkedin": "https://www.linkedin.com/in/mussab-aziz/"
   },
   "categories": [
     {
@@ -22,18 +20,28 @@
       "videos": [
         {
           "id": "sd-1",
-          "title": "The Road to Glory — Football Championship 2024",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "ONE PUNCH KO POWER - Anatoly Sladkiy Malykhin",
+          "driveUrl": "https://drive.google.com/file/d/1hxS5PYAKxKjIldxccbir1yRTQf5QrTwE/view?usp=drive_link"
         },
         {
           "id": "sd-2",
-          "title": "Legends of the Pitch — A 30-Year Story",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "My Amateur Life: S1E1 Michael Bear Barron Bartolotti",
+          "driveUrl": "https://drive.google.com/file/d/1fVix4ut4KiLoeGVbPVUxiZuPPRO0HwXk/view?usp=drive_link"
         },
         {
           "id": "sd-3",
-          "title": "Against All Odds — National Cup Finals",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "The Untold Story of Kevin Porter Jr - NBA Documentary",
+          "driveUrl": "https://drive.google.com/file/d/1lsJ5XZH1ct1p5pIblo8pYugdpcwsn1Mf/view?usp=drive_link"
+        },
+        {
+          "id": "sd-4",
+          "title": "The Incredible Journey of Roman Reigns - WWE",
+          "driveUrl": "https://drive.google.com/file/d/1IvYVd7GM03g3Wy30Zhfw7f32aD6bi7mm/view?usp=drive_link"
+        },
+        {
+          "id": "sd-5",
+          "title": "7x GLORY Kickboxing World Champ - Artem Vakhitov",
+          "driveUrl": "https://drive.google.com/file/d/1eavWAXEUwtojc0JomP8slNCOHpKaWY6f/view?usp=drive_link"
         }
       ]
     },
@@ -41,22 +49,27 @@
       "id": "event-highlights",
       "title": "Event Highlights",
       "description": "Capturing the energy, emotion, and essence of live events.",
-      "aspectRatio": "16/9",
+      "aspectRatio": "9/16",
       "videos": [
         {
           "id": "eh-1",
-          "title": "Lagos Fashion Week 2024 — Recap",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "RCGP Conference",
+          "driveUrl": "https://drive.google.com/file/d/1rQC5YLIJ_7BKlnrLpt8bxMgxnBf7wi1v/view?usp=drive_link"
         },
         {
           "id": "eh-2",
-          "title": "Tech Summit Keynote Highlights",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "Melanie's Sweet 16 - Birthday",
+          "driveUrl": "https://drive.google.com/file/d/1VmkcB7vVn8S9owbBOTDlbL458rwXiWbC/view?usp=drive_link"
         },
         {
           "id": "eh-3",
-          "title": "Grand Wedding — Adeola & Emeka",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "ROI - Open house Event",
+          "driveUrl": "https://drive.google.com/file/d/1MN-oYj9cVqR9xBzie-6Da4o5uBXnFq2M/view?usp=drive_link"
+        },
+        {
+          "id": "eh-4",
+          "title": "Salim Networking Event",
+          "driveUrl": "https://drive.google.com/file/d/13ylpIqhhoC4SGLaLAthBKjgiHFE2plAO/view?usp=drive_link"
         }
       ]
     },
@@ -64,73 +77,86 @@
       "id": "real-estate",
       "title": "Real Estate Listing Videos",
       "description": "Architectural storytelling that turns properties into experiences.",
-      "aspectRatio": "16/9",
+      "aspectRatio": "9/16",
       "videos": [
         {
           "id": "re-1",
-          "title": "Luxury Penthouse — Victoria Island, Lagos",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "Jayana New Jersey - Listing",
+          "driveUrl": "https://drive.google.com/file/d/1h9EgPWDsIBVIN1y5eZdzF98CyzzO0RLE/view?usp=drive_link"
         },
         {
           "id": "re-2",
-          "title": "Modern Villa — Lekki Phase 1",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "Franciel New Jersey - Listing",
+          "driveUrl": "https://drive.google.com/file/d/1q0GvWPeN8FF0Ikwo2lg7Tuli06GR0ahF/view?usp=drive_link"
         },
         {
           "id": "re-3",
-          "title": "Commercial Complex — Abuja CBD",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "ROI Open House - Listing",
+          "driveUrl": "https://drive.google.com/file/d/1lWJ5PUxbJqqBRHOTTTR667OMc37Vb2PN/view?usp=drive_link"
         }
       ]
     },
     {
       "id": "travel-reels",
-      "title": "Travel Reels",
+      "title": "Travel Reels/Vlogs",
       "description": "Dynamic vlog-style cuts that transport you across continents.",
       "aspectRatio": "9/16",
       "videos": [
         {
           "id": "tr-1",
-          "title": "48 Hours in Dubai",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "The Yankee Stadium - Vlog",
+          "driveUrl": "https://drive.google.com/file/d/1KL8PXCusLqW4QttIcJFri2g1M5JyGqYy/view?usp=drive_link"
         },
         {
           "id": "tr-2",
-          "title": "Santorini — A Visual Diary",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "Ganga Choti AJK - Trip",
+          "driveUrl": "https://drive.google.com/file/d/1juEYzLKb6tlupcw38sTwhdwx76BGK26y/view?usp=drive_link"
         },
         {
           "id": "tr-3",
-          "title": "Tokyo Nights",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
-        },
-        {
-          "id": "tr-4",
-          "title": "African Safari — Kenya",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "Mangla Water Resort - Bike Ride",
+          "driveUrl": "https://drive.google.com/file/d/1cBm_dDvJekdVj9TSstNVKi1nJAVKQwkE/view?usp=drive_link"
         }
       ]
     },
     {
       "id": "sports-highlights",
-      "title": "Sports Highlight Videos",
+      "title": "Sports Highlight Reels",
       "description": "High-octane montages that make every play feel legendary.",
+      "aspectRatio": "9/16",
+      "videos": [
+        {
+          "id": "sh-1",
+          "title": "100M Freestyle - Swimming Race",
+          "driveUrl": "https://drive.google.com/file/d/1tJhGVFQF0_4K6WcymZw2Ym5O2_QCwwqf/view?usp=drive_link"
+        },
+        {
+          "id": "sh-2",
+          "title": "Holistic Life Foundation - Golf Outing",
+          "driveUrl": "https://drive.google.com/file/d/1P5pmLlLgmwbdYqKAK6nHmYszi-zRHg6r/view?usp=drive_link"
+        },
+        {
+          "id": "sh-3",
+          "title": "Korean - Golf Outing",
+          "driveUrl": "https://drive.google.com/file/d/19gBUraXv6fwD357nq0xPJewC8l-yc_iT/view?usp=drive_link"
+        }
+      ]
+    },
+    {
+      "id": "geopolitics-documentaries",
+      "title": "Geopolitics Documentaries",
+      "description": "In-depth documentary edits exploring world politics, power dynamics, and global affairs.",
       "aspectRatio": "16/9",
       "videos": [
         {
           "id": "sh-1",
-          "title": "Messi Season Rewind — 2024",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "How The Texas Triangle Shapes America's Future",
+          "driveUrl": "https://drive.google.com/file/d/1kqclkRZ6kqigQcZXAfdUyYUZzccRdN24/view?usp=drive_link"
         },
         {
           "id": "sh-2",
-          "title": "Basketball — Dunk Compilation",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
-        },
-        {
-          "id": "sh-3",
-          "title": "Athletics Championship Moments",
-          "driveUrl": "https://drive.google.com/file/d/1BxiMVs0XRA5nFMdKvBdBZjgmUJptlI08/view"
+          "title": "What's Making California's Fires Unstoppable",
+          "driveUrl": "https://drive.google.com/file/d/1p-gcm6M0ehj5kc1XcYSV_A6YugbWZQgz/view?usp=drive_link"
         }
       ]
     }
